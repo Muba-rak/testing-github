@@ -1,0 +1,4 @@
+githug config
+
+git config --global user.email 'wisdom@ggole,'
+git config --global user.name 'your username'
